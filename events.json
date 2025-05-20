@@ -1,0 +1,52 @@
+{
+  "monthly": [
+    {
+      "id": 1,
+      "name": "dj xxx",
+      "color": "#000000",
+      "startdate": "2024-12-13",
+      "enddate": "2024-12-14",
+      "starttime": "12:00",
+      "endtime": "2w:00",
+      "note": "busy with",
+      "goals": [
+        "goal 1",
+        "goal 2"
+      ],
+      "tasks": [
+			{"name":"do work",
+			 "status":"working"
+			},
+			{"name":"do work",
+			 "status":"working"
+			}
+	   ],
+      "url": ""
+      
+    },
+    {
+      "id": 2,
+      "name": "dj 2",
+      "color": "#FFB128",
+      "startdate": "2025-1-13",
+      "enddate": "2025-2-14",
+      "starttime": "12:00",
+      "endtime": "2w:00",
+      "note": "busy with",
+      "goals": [
+        "goal 1",
+        "goal 2"
+      ],
+      "tasks": [
+			{"name":"do work",
+			 "status":"working"
+			},
+			{"name":"do work",
+			 "status":"working"
+			}
+	   ],
+      "url": ""
+      
+    }
+  ]
+}
